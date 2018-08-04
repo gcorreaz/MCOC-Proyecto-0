@@ -1,5 +1,5 @@
 # MCOC-Proyecto-0
 
-<b> <H2> Introducción </H2> </b> 
+<b> <H1> Introducción </H1> </b> 
 
-En este proyecto se ilustra con algun ejemplo el efecto de perdida de significancia en  opera-ciones  de  aritmetica  de  punto  flotante.
+En este proyecto se ilustra con algun ejemplo el efecto de perdida de significancia en  operaciones  de  aritmetica  de  punto  flotante.
