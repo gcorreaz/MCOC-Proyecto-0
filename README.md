@@ -2,4 +2,4 @@
 
 Introducción
 
-En este proyecto deben ilustrar con algun ejemplo, distinto de este, el efecto de perdida de significancia
+En este proyecto se ilustra con algun ejemplo el efecto de perdida de significancia en  opera-ciones  de  aritmetica  de  punto  flotante.
