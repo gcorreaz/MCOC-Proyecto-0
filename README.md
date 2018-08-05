@@ -19,10 +19,10 @@ Se implementan y comparan 4 ideas.
 <b> <H1> Resultados </H1> </b> 
 
 
-| Coef. Asimetría en 1 | Coef. Asimetría en 2 | Coef. Asimetría en 3 |C oef. Asimetría en 4 |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Coef. Asimetría en 1 | Coef. Asimetría en 2 | Coef. Asimetría en 3 | Coef. Asimetría en 4 |
+| -------------------- | -------------------- | -------------------- | -------------------- |
+| Content Cell         | Content Cell         | Content Cell         | Content Cell         |
+| Content Cell         | Content Cell         | Content Cell         | Content Cell         |
 
 Se conoce como error relativo:
 
