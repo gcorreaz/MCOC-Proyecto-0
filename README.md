@@ -15,5 +15,5 @@ Se implementan y comparan 4 ideas.
          3-. Definir un arreglo "a"  con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float64 y crear una función el cual permite conocer el coef. de asimetría
          4-. Definir un arreglo "b" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float32 y crear una función el cual permite conocer el coef. de asimetría
         
-Luego, 
-         
+
+<b> <H1> Resultados </H1> </b>          
