@@ -16,4 +16,16 @@ Se implementan y comparan 4 ideas.
          4-. Definir un arreglo "b" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float32 y crear una función el cual permite conocer el coef. de asimetría
         
 
-<b> <H1> Resultados </H1> </b>          
+<b> <H1> Resultados </H1> </b> 
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Se conoce como error relativo:
+
+         ERROR = (Promedio_Calculado - Resultado_Exacto) / Resultado_Exacto
+         
+Luego
