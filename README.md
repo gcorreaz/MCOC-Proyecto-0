@@ -17,6 +17,8 @@ Se implementan y comparan 4 ideas.
         
 
 <b> <H1> Resultados </H1> </b> 
+         Se procede a calcular el coeficiente de asimetría de Fitcher para cada uno de las ideas planteadas. De esta forma, se podrá visualizar la variación que tiene esta operación para un mismo arreglo. Luego, como el arreglo está compuesto de numeros aleatorios, se procederá a calcular los respectivos coeficientes para tres arreglos distintos.
+       
 
 
 |                      | Coef. Asimetría en 1 | Coef. Asimetría en 2 | Coef. Asimetría en 3 | Coef. Asimetría en 4 |
@@ -25,17 +27,19 @@ Se implementan y comparan 4 ideas.
 |        Segundo       | Content Cell         | Content Cell         | Content Cell         |                      |
 |        Tercero       | Content Cell         | Content Cell         | Content Cell         |                      |
 
+
 Se conoce como error relativo:
 
          ERROR = (Promedio_Calculado - Resultado_Exacto) / Resultado_Exacto
          
 Luego 
 
-|                      | Error               | Coef. Asimetría en 2 | Coef. Asimetría en 3 | Coef. Asimetría en 4 |
-| -------------------- | -------------------- | -------------------- | -------------------- | -------------------- |
-|        Primero       | Content Cell         | Content Cell         | Content Cell         |                      |
-|        Segundo       | Content Cell         | Content Cell         | Content Cell         |                      |
-|        Tercero       | Content Cell         | Content Cell         | Content Cell         |                      |
+
+|                      | Error  #1            | Error #2             | Error #3             |
+| -------------------- | -------------------- | -------------------- | -------------------- |
+|        Primero       | Content Cell         | Content Cell         | Content Cell         |
+|        Segundo       | Content Cell         | Content Cell         | Content Cell         |
+|        Tercero       | Content Cell         | Content Cell         | Content Cell         |
 
 
 
