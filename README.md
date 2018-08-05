@@ -10,8 +10,8 @@ Aquí se puede visualizar, a modo de ejemplo, como el coeficiente de asimetría 
 
 Se implementan y comparan 4 ideas.
 
-         1 - Definir un arreglo "a" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float64 y usar la función skew().
-         2-. Definir un arreglo "b" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float32 y usar la función skew(). 
+         1 - Definir un arreglo "a" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float64 y usar la función skew() para conocer el coef. de asimetría.
+         2-. Definir un arreglo "b" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float32 y usar la función skew() para conocer el coef. de asimetría.  
          3-. Definir un arreglo "a" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float64 y crear una función el cual permite conocer el coef. de asimetría
          4-. Definir un arreglo "b" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float32 y crear una función el cual permite conocer el coef. de asimetría
         
@@ -19,7 +19,7 @@ Se implementan y comparan 4 ideas.
 <b> <H1> Resultados </H1> </b> 
 
 
-| First Header  | Second Header |
+| Coef. Asimetría en 1 | Coef. Asimetría en 2 | Coef. Asimetría en 3 |C oef. Asimetría en 4 |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
