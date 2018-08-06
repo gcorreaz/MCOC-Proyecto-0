@@ -29,8 +29,7 @@ Luego, llamaremos:
 A continuación se muestra como va creciendo el error relativo en la medida en que se consideran cada vez mas dígitos. Esto se produce principalmente debido a la perdida de significancia. Cabe recalcar que para este ejemplo, la variación es muy pequeña, esto podría para el espectador no ver de forma directa una curva creciente, pero al analizar los coeficientes y el error para una cierto N entregado, es posible ver con mayor claridad que el error aumenta a medida que se toman mas dígitos.
 
 
-
-         ![alt text](https://github.com/gcorreaz/MCOC-Proyecto-0/blob/master/image.png)
+![alt text](https://github.com/gcorreaz/MCOC-Proyecto-0/blob/master/image.png)
 
 
         
