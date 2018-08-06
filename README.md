@@ -29,7 +29,10 @@ Luego, llamaremos:
 A continuación se muestra como va creciendo el error relativo en la medida en que se consideran cada vez mas dígitos. Esto se produce principalmente debido a la perdida de significancia.
 
 
+<img src="imagenHTML.jpg">
 
+URL del artículo: https://www.ejemplode.com/17-html/81-ejemplo_de_como_colocar_imagenes_con_html.html
+Nota completa: Ejemplo de Cómo colocar imágenes con HTML
         
 Output de la consola:        
 
@@ -61,5 +64,10 @@ Output de la consola:
 
 
 
+
+# Anexos
+
+https://www.ejemplode.com/17-html/81-ejemplo_de_como_colocar_imagenes_con_html.html
+https://glosarios.servidor-alicante.com/terminos-estadistica/coeficiente-de-asimetria-de-fisher
 
 
