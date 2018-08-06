@@ -32,6 +32,8 @@ A continuación se muestra como va creciendo el error relativo en la medida en q
 <img> MCOC-Proyecto-0/image.png
 <img src="MCOC-Proyecto-0/image.png">
 
+![alt text](https://github.com/gcorreaz/MCOC-Proyecto-0/blob/master/image.png)
+
 
         
 Output de la consola:        
