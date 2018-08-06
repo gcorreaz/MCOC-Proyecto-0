@@ -29,7 +29,9 @@ Luego, llamaremos:
 A continuación se muestra como va creciendo el error relativo en la medida en que se consideran cada vez mas dígitos. Esto se produce principalmente debido a la perdida de significancia.
 
 
-MCOC-Proyecto-0/image.png
+<img> MCOC-Proyecto-0/image.png
+<img src="MCOC-Proyecto-0/image.png">
+
 
         
 Output de la consola:        
