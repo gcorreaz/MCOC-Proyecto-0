@@ -34,8 +34,8 @@ A continuación se muestra como va creciendo el error relativo en la medida en q
         
 Output de la consola:        
 
-       N = 10
-                  Coeficiente de Asimetria en 1 =  0.00160708373332  ,  error =  0.0
+         N = 10
+         Coeficiente de Asimetria en 1 =  0.00160708373332  ,  error =  0.0
          Coeficiente de Asimetria en 2 =  0.00547646165373  ,  error1 =  2.40770150315
          Coeficiente de Asimetria en 3 =  0.00547646165373  ,  error2 =  2.40770150315
 
