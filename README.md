@@ -28,7 +28,6 @@ Luego, llamaremos:
         
 A continuación se muestra como va creciendo el error relativo en la medida en que se consideran cada vez mas dígitos. Esto se produce principalmente debido a la perdida de significancia.
 
-<img src="https://prnt.sc/kf5gkf">
 
 
         
