@@ -8,7 +8,7 @@ En este proyecto se ilustra con algun ejemplo el efecto de perdida de significan
 
 Aquí se puede visualizar, a modo de ejemplo, como el coeficiente de asimetría de Fisher pierde significancia al aumentar el tamaño de la muestra. También es posible ver la diferencia entre ocupar un float32 y float64 en la operación, logrando con esta última mayor precisión en el resultado
 
-Se implementan y comparan 4 ideas.
+Se implementan y comparan 3 ideas.
 
          1 - Definir un arreglo "a" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float64 y usar la función skew() para conocer el coef. de asimetría.
          2-. Definir un arreglo "a" con numeros aleatorias desde el 0 al 9 y tipo de datos dtype=sp.float64 y crear una función el cual permite conocer el coef. de asimetría
@@ -26,7 +26,13 @@ Luego, llamaremos:
         Error #1 = Diferencia que se produce entre el coeficiente de asimetría planteado 3 y en 1.
         Error #2 = Diferencia que se produce entre el coeficiente de asimetría planteado 4 y en 1.
         
-Luego, los errores serán los siguientes:        
+A continuación se muestra como va creciendo el error relativo en la medida en que se consideran cada vez mas dígitos. Esto se produce principalmente debido a la perdida de significancia.
+
+<img src="https://prnt.sc/kf5gkf">
+
+
+        
+Output de la consola:        
 
         N = 10
          Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
