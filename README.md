@@ -16,18 +16,8 @@ Se implementan y comparan 4 ideas.
         
 
 <b> <H1> Resultados </H1> </b> 
-         Se procede a calcular el coeficiente de asimetría de Fitcher para cada uno de las ideas planteadas. De esta forma, se podrá visualizar la variación que tiene esta operación para un mismo arreglo. Luego, como el arreglo está compuesto de numeros aleatorios, se procederá a calcular los respectivos coeficientes para tres arreglos distintos.
-       
-
-
-|                      | Coef. Asimetría en 1 | Coef. Asimetría en 2 | Coef. Asimetría en 3 |
-| -------------------- | -------------------- | -------------------- | -------------------- |
-|        Primero       |  0.0226748540343     | 0.0222870794775      | 0.0202731641426      |
-|        Segundo       | -0.030844182667      | 0.0375461298091      | 0.0111774521023      |
-|        Tercero       |  0.0376172129178     | 0.0375461298091      | 0.012294849748       |
-
-
-Se conoce como error relativo:
+         Se procede a calcular el coeficiente de asimetría de Fitcher para cada uno de las ideas planteadas. De esta forma, se podrá visualizar la variación que tiene esta operación para un mismo arreglo.
+         Luego, se conoce como error relativo:
 
          ERROR = (Promedio_Calculado - Resultado_Exacto) / Resultado_Exacto
          
@@ -38,18 +28,32 @@ Luego, llamaremos:
         
 Luego, los errores serán los siguientes:        
 
-
-|                      | Error  #1            | Error #2             | Error #3             |
-| -------------------- | -------------------- | -------------------- | -------------------- |
-|        Primero       | 0.017101523841       | 0.105918648391       | 0.105894031345       |
-|        Segundo       | 0.00050110012759     | 1.36238444775        | 1.36237088618        |
-|        Tercero       | 0.00188964314842     | 0.673158939894       | 0.674867599296       |
-
-
-
-Ahora, tambien es posible notar que a medida que aumenta la cantidad de datos, aumenta el error..
-Esto se podrá ver reflejado en el siguiente grafico 
-
+         N = 10
+         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
+         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
+ 
+         N = 11
+         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
+         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
+ 
+         N = 12
+         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
+         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
+          
+         N = 13
+         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
+         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
+          
+         N = 14
+         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
+         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
+         
+         
 
 
 
