@@ -53,8 +53,9 @@ Luego, los errores serán los siguientes:
          Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
          Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
          
-         
+plt.legend(["a.dtype=float64 y skew()","a.dtype=float64 y skewFitcher64(a,dtype=np.float64)","a.dtype=float32 y skewFitcher32(g)"])
+plt.title("Perdida de significancia")         
 
-
+ 
 
 
