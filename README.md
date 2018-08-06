@@ -35,30 +35,30 @@ A continuación se muestra como va creciendo el error relativo en la medida en q
         
 Output de la consola:        
 
-        N = 10
-         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
-         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
-          
+       N = 10
+                  Coeficiente de Asimetria en 1 =  0.00160708373332  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00547646165373  ,  error1 =  2.40770150315
+         Coeficiente de Asimetria en 3 =  0.00547646165373  ,  error2 =  2.40770150315
+
          N = 11
-         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
-         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+         Coeficiente de Asimetria en 1 =  -0.0510548260887  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  -0.0513691741632  ,  error1 =  0.00615706875486
+         Coeficiente de Asimetria en 3 =  -0.0513691719291  ,  error2 =  0.00615702499624
 
          N = 12
-         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
-         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+         Coeficiente de Asimetria en 1 =  0.00987896221804  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00943590730556  ,  error1 =  0.0448483254309
+         Coeficiente de Asimetria en 3 =  0.00943590640303  ,  error2 =  0.0448484167906
 
          N = 13
-         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
-         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+         Coeficiente de Asimetria en 1 =  0.0136232075746  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.0137028094565  ,  error1 =  0.00584310864209
+         Coeficiente de Asimetria en 3 =  0.013702808862  ,  error2 =  0.00584306500454
 
          N = 14
-         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
-         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+         Coeficiente de Asimetria en 1 =  0.00324791812775  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00348397929218  ,  error1 =  0.0726807619956
+         Coeficiente de Asimetria en 3 =  0.00348397906209  ,  error2 =  0.0726806911561
 
 
 
