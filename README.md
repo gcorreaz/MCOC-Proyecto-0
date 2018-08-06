@@ -28,34 +28,33 @@ Luego, llamaremos:
         
 Luego, los errores serán los siguientes:        
 
-         N = 10
-         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
-         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
- 
+        N = 10
+         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
+         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+          
          N = 11
-         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
-         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
- 
-         N = 12
-         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
-         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
-          
-         N = 13
-         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
-         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
-          
-         N = 14
-         Coeficiente de Asimetria en 1 =  0.00967664090386  ,  error =  0.0
-         Coeficiente de Asimetria en 2 =  0.00955886297509  ,  error1 =  0.0121713650368
-         Coeficiente de Asimetria en 3 =  0.00955886315575  ,  error2 =  0.0121713463662
-         
-plt.legend(["a.dtype=float64 y skew()","a.dtype=float64 y skewFitcher64(a,dtype=np.float64)","a.dtype=float32 y skewFitcher32(g)"])
-plt.title("Perdida de significancia")         
+         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
+         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
 
- 
+         N = 12
+         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
+         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+
+         N = 13
+         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
+         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+
+         N = 14
+         Coeficiente de Asimetria en 1 =  0.0010001456686  ,  error =  0.0
+         Coeficiente de Asimetria en 2 =  0.00102016582627  ,  error1 =  0.020017241786
+         Coeficiente de Asimetria en 3 =  0.00102016577919  ,  error2 =  0.0200171947134
+
+
+
+
 
 
