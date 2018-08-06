@@ -66,6 +66,7 @@ Output de la consola:
 # Anexos
 
 1-. https://www.ejemplode.com/17-html/81-ejemplo_de_como_colocar_imagenes_con_html.html
+
 2-. https://glosarios.servidor-alicante.com/terminos-estadistica/coeficiente-de-asimetria-de-fisher
 
 
